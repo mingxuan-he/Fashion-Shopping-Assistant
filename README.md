@@ -8,3 +8,7 @@
   - Webshop: https://github.com/princeton-nlp/webshop
   - An agent benchmark using Webshop: https://github.com/THUDM/AgentBench
 - Langchain: https://python.langchain.com/docs/
+- Dataset and Instruction: https://gitlab.aicrowd.com/aicrowd/challenges/amazon-kdd-cup-2024/amazon-kdd-cup-2024-starter-kit/-/tree/master
+
+# FAQ
+https://discourse.aicrowd.com/t/where-is-the-shopbench-amazon-dataset/9730
