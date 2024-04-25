@@ -12,3 +12,6 @@
 
 # FAQ
 https://discourse.aicrowd.com/t/where-is-the-shopbench-amazon-dataset/9730
+
+# Team Google Drive
+[Link here](https://drive.google.com/drive/folders/18EXfDk-9wlKeEkK208alQxfbmMyE2VH4?usp=share_link)
