@@ -2,6 +2,9 @@
 
 ## Latest Team Update: Sunday 05/12/24
 Meeting Notes [here](https://docs.google.com/document/d/1MtpyfgS40KDQkx7kjWbbZebLXWoS5qvj3-8H67ZHBMM/edit?usp=share_link)
+Research framing:
+<img width="454" alt="Screenshot 2024-05-12 at 6 19 33 PM" src="https://github.com/mingxuan-he/Amazon-KDD/assets/143452850/01efb021-a697-4d27-83c3-1239e268acbf">
+
 
 **NEXT MEETING:** Thurs 05/16/24, 11-12:20
 
