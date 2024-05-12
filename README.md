@@ -1,5 +1,5 @@
 # <p align="center">Developing an AI Advisor for Amazon Fashion Products</p>
-$${\color{CadetBlue}Mingxuan\space He,\space \color{Blue}Erika\space Zhang,\space \color{Navyblue}Tianze\space Zhang,\space \color{MidnightBlue}Tianfang\space Zhu}$$
+$${\color{CadetBlue}Mingxuan\space He,\space \color{Maroon}Erika\space Zhang,\space \color{Thistle}Tianze\space Zhang,\space \color{MidnightBlue}Tianfang\space Zhu}$$
 <p align="center"><strong>University of Chicago</strong></p> 
 <p align="center"><strong>MACS 37000</strong></p> 
 
