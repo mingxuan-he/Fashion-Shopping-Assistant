@@ -41,6 +41,10 @@
 
 
 ## Resources:
+Amazon Reviews
+- McAuley Lab [Amazon Reviews 2023 dataset](https://amazon-reviews-2023.github.io) 
+
+Amazon KDD
 - Amazon KDD Cup: https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms
   - Starter Kit repo: https://gitlab.aicrowd.com/aicrowd/challenges/amazon-kdd-cup-2024/amazon-kdd-cup-2024-starter-kit
   - Development data: https://gitlab.aicrowd.com/aicrowd/challenges/amazon-kdd-cup-2024/amazon-kdd-cup-2024-starter-kit/-/blob/master/data/development.json
