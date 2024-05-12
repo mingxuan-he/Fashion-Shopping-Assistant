@@ -5,15 +5,20 @@
 
 **TO DO BEFORE NEXT MEETING**
 1. Make multimodal embeddings (Everyone-pick what you're interested in/can do)
- * Text embed
- * Text to Graph embed
- * Image & Text embed
- * Image & Text to Graph embed (extract features from images?)
+   * Text embed
+   * Text to Graph embed
+   * Image & Text embed
+   * Image & Text to Graph embed (extract features from images?)
 2. Knowledge graph (Tian)
 3. Play with Neo4j to make queries & test embeddings (Everyone)
 
-### 
+**NEW DATA**
+1. A [large-scale Amazon Reviews dataset](https://amazon-reviews-2023.github.io) collected in 2023 by the McAuley Lab at UCSD
+2. We will be focusing on the "Amazon_Fashion" category of products
+3. The Review and Metadata data files can be merged with a common key called "parent_asin"
+4. A sample tabular merged datafile with 1000 items can be found in the "data" folder called [amazon_subset_0512.csv](https://github.com/mingxuan-he/Amazon-KDD/blob/main/data/amazon_subset_0512.csv) 
 
+<br>
 ## FINALS details
 **PROJECT**
 * 3 forms of data in a SINGLE model
