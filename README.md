@@ -1,6 +1,8 @@
 # Amazon-KDD
 
 ## Latest Team Update: Sunday 05/12/24
+Meeting Notes [here](https://docs.google.com/document/d/1MtpyfgS40KDQkx7kjWbbZebLXWoS5qvj3-8H67ZHBMM/edit?usp=share_link)
+
 **NEXT MEETING:** Thurs 05/16/24, 11-12:20
 
 **TO DO BEFORE NEXT MEETING**
@@ -41,10 +43,10 @@
 
 
 ## Resources:
-Amazon Reviews
+**Amazon Reviews**
 - McAuley Lab [Amazon Reviews 2023 dataset](https://amazon-reviews-2023.github.io) 
 
-Amazon KDD
+**Amazon KDD**
 - Amazon KDD Cup: https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms
   - Starter Kit repo: https://gitlab.aicrowd.com/aicrowd/challenges/amazon-kdd-cup-2024/amazon-kdd-cup-2024-starter-kit
   - Development data: https://gitlab.aicrowd.com/aicrowd/challenges/amazon-kdd-cup-2024/amazon-kdd-cup-2024-starter-kit/-/blob/master/data/development.json
