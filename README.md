@@ -1,5 +1,16 @@
 # Amazon-KDD
 
+## Latest Team Update: Sunday 05/12/24
+### NEXT MEETING: Thurs 05/16/24, 11-12:20 
+### TO DO BEFORE NEXT MEETING
+1. Make multimodal embeddings (Everyone-pick what you're interested in/can do)
+ * Text embed
+ * Text to Graph embed
+ * Image & Text embed
+ * Image & Text to Graph embed (extract features from images?)
+2. Knowledge graph (Tian)
+3. Play with Neo4j to make queries & test embeddings (Everyone)
+
 ## Task
 Students will work in groups to perform a substantial, multi-modal deep learning project for social insight based on approaches and tools developed/explored over the course of the quarter. These projects must integrate at least **three forms of data** in a single model, and use at least **three types of models** (from three separate weeks over the course of the quarter), and must **validate inferences or predictions** with qualitative interpretation and assessments. These projects are encouraged to be performed in groups (of ~5 students). Examples include (and student groups could pursue one of these examples)†: 
 * The KDD Cup 2024 provides datasets for various challenges, including (1) simulating and forecasting the behaviors of Amazon users using LLMs and (2) academic text and graph mining. Those interested in text learning, graph learning, social simulation, and the creation of digital doubles using transformers may find these challenges and datasets particularly intriguing. See KDD Cup 2024 pages from Amazon and Tsinghua/Zhipu AI.
