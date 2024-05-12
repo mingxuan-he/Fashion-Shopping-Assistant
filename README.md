@@ -1,4 +1,7 @@
-# Amazon-KDD
+# <p align="center">Developing an AI Advisor for Amazon Fashion Products</p>
+$${\color{CadetBlue}Mingxuan\space He,\space \color{Blue}Erika\space Zhang,\space \color{Navyblue}Tianze\space Zhang,\space \color{MidnightBlue}Tianfang\space Zhu}$$
+<p align="center"><strong>University of Chicago</strong></p> 
+<p align="center"><strong>MACS 37000</strong></p> 
 
 ## Latest Team Update: Sunday 05/12/24
 Meeting Notes [here](https://docs.google.com/document/d/1MtpyfgS40KDQkx7kjWbbZebLXWoS5qvj3-8H67ZHBMM/edit?usp=share_link)
@@ -15,7 +18,7 @@ Meeting Notes [here](https://docs.google.com/document/d/1MtpyfgS40KDQkx7kjWbbZeb
 3. Play with Neo4j to make queries & test embeddings (Everyone)
 
 **NEW DATA**
-1. A [large-scale Amazon Reviews dataset](https://amazon-reviews-2023.github.io) collected in 2023 by the McAuley Lab at UCSD
+1. A [large-scale Amazon Reviews dataset](https://amazon-reviews-2023.github.io) collected in 2023 by the McAuley Lab at UCSD. This dataset contains produdct and review information from 1996-2023. 
 2. We will be focusing on the "Amazon_Fashion" category of products
 3. The Review and Metadata data files can be merged with a common key called "parent_asin"
 4. A sample tabular merged datafile with 1000 items can be found in the "data" folder called [amazon_subset_0512.csv](https://github.com/mingxuan-he/Amazon-KDD/blob/main/data/amazon_subset_0512.csv) 
