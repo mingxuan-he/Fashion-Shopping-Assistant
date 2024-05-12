@@ -33,9 +33,10 @@
 * Ignite style presentation Thursday 5/23, 4:30pm (We should aim to start presentation over the weekend?)
 
 **WRITEUP**
-* Medium post
 * Due Friday 5/24, 5:00pm
-A detailed, entertaining and informative public-facing **Medium.com blog-post** about their projects that includes the motivation, methodological justification and detail, descriptive data and deep learning modeling, interpretation of findings (e.g., discovered structures, predictions, generations), conclusion, and annotated code appendix. These should not read like an academic paper, but a mixture of (1) explanatory tutorial; and (2) digital museum exhibit, balancing intermittent text with figures, description boxes, equations, and/or conceptual diagrams including at least one visual element (e.g., figure, graph, conceptual diagram) for every 300 words of text; and a minimum total of 5000 words and 17 visual elements.
+* Medium post: A detailed, entertaining and informative public-facing **Medium.com blog-post** about their projects that includes the motivation, methodological justification and detail, descriptive data and deep learning modeling, interpretation of findings (e.g., discovered structures, predictions, generations), conclusion, and annotated code appendix. These should not read like an academic paper, but a mixture of (1) explanatory tutorial; and (2) digital museum exhibit, balancing intermittent text with figures, description boxes, equations, and/or conceptual diagrams including at least one visual element (e.g., figure, graph, conceptual diagram) for every 300 words of text; and a minimum total of 5000 words and 17 visual elements.
+
+
 
 
 
