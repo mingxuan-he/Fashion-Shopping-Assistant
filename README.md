@@ -19,7 +19,9 @@
 4. A sample tabular merged datafile with 1000 items can be found in the "data" folder called [amazon_subset_0512.csv](https://github.com/mingxuan-he/Amazon-KDD/blob/main/data/amazon_subset_0512.csv) 
 
 <br>
+
 ## FINALS details
+
 **PROJECT**
 * 3 forms of data in a SINGLE model
 * 3 types of models (from 3 separate weeks)
