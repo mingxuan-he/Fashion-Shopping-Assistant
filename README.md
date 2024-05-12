@@ -1,8 +1,9 @@
 # Amazon-KDD
 
 ## Latest Team Update: Sunday 05/12/24
-### NEXT MEETING: Thurs 05/16/24, 11-12:20 
-### TO DO BEFORE NEXT MEETING
+**NEXT MEETING:** Thurs 05/16/24, 11-12:20
+
+**TO DO BEFORE NEXT MEETING**
 1. Make multimodal embeddings (Everyone-pick what you're interested in/can do)
  * Text embed
  * Text to Graph embed
