@@ -2,9 +2,9 @@
 
 ## Latest Team Update: Sunday 05/12/24
 Meeting Notes [here](https://docs.google.com/document/d/1MtpyfgS40KDQkx7kjWbbZebLXWoS5qvj3-8H67ZHBMM/edit?usp=share_link)
+
 Research framing:
 <img width="454" alt="Screenshot 2024-05-12 at 6 19 33 PM" src="https://github.com/mingxuan-he/Amazon-KDD/assets/143452850/01efb021-a697-4d27-83c3-1239e268acbf">
-
 
 **NEXT MEETING:** Thurs 05/16/24, 11-12:20
 
@@ -41,9 +41,7 @@ Research framing:
 * Due Friday 5/24, 5:00pm
 * Medium post: A detailed, entertaining and informative public-facing **Medium.com blog-post** about their projects that includes the motivation, methodological justification and detail, descriptive data and deep learning modeling, interpretation of findings (e.g., discovered structures, predictions, generations), conclusion, and annotated code appendix. These should not read like an academic paper, but a mixture of (1) explanatory tutorial; and (2) digital museum exhibit, balancing intermittent text with figures, description boxes, equations, and/or conceptual diagrams including at least one visual element (e.g., figure, graph, conceptual diagram) for every 300 words of text; and a minimum total of 5000 words and 17 visual elements.
 
-
-
-
+<br>
 
 ## Resources:
 **Amazon Reviews**
@@ -58,6 +56,8 @@ Research framing:
   - An agent benchmark using Webshop: https://github.com/THUDM/AgentBench
 - Langchain: https://python.langchain.com/docs/
 - Dataset and Instruction: https://gitlab.aicrowd.com/aicrowd/challenges/amazon-kdd-cup-2024/amazon-kdd-cup-2024-starter-kit/-/tree/master
+
+<br>
 
 ## FAQ
 https://discourse.aicrowd.com/t/where-is-the-shopbench-amazon-dataset/9730
