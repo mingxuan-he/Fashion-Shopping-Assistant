@@ -22,7 +22,7 @@
 **PRESENTATION**
 * 8 minutes/32 slides for 4-person team
 * Slides due Thursday 5/23 4:00pm
-* Ignite style presentation Thursday 5/23, 4:30pm [We should aim to get presentation done by Tuesday]
+* Ignite style presentation Thursday 5/23, 4:30pm (We should aim to start presentation over the weekend?)
 
 **WRITEUP**
 * Medium post
