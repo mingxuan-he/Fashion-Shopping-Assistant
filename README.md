@@ -15,6 +15,8 @@ Meeting Notes [here](https://docs.google.com/document/d/1MtpyfgS40KDQkx7kjWbbZeb
    * Image & Text embed
    * Image & Text to Graph embed (extract features from images?)
 2. Knowledge graph (Tian)
+  * Url: https://workspace-preview.neo4j.io/connection/connect
+  * username and password in the shared drive 
 3. Play with Neo4j to make queries & test embeddings (Everyone)
 
 **NEW DATA**
