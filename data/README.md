@@ -44,7 +44,7 @@ Update 05/16/24
   * So I decide to transform "helpful_vote" by taking the square root of each vote
   * I think this still works because this (weighing of the "helpful_vote" weight) process REWARDS upvotes when they're sparse. In other words, the MARGINAL VALUE of each upvote decreases over time (arguably, it's more important that someone finds a review relatable and thus upvotes it for the 1st, 2nd time, compared to when the 200th person is upvoting a post that already has 199 votes...in which case sheer visibility might play a role...such a popular review likely will be found at the top of the review section)
   * Application: probably best review text feature for embedding, in my opinion. Unless embedding models handle repeated text badly.
-  * Example application: `text_weighted_agg` contains all text reviews with weights but for the one review with 371 upvotes in particular, the text for this review has been repeated 19 times. (19 is the upper limit for text copies/weight).
+  * Example calculation: `text_weighted_agg` contains all text reviews with weights but for the one review with 371 upvotes in particular, the text for this review has been repeated 19 times. (19 is the upper limit for text copies/weight).
   * Limitation: increase text size 
 * `images_review_cln` [LST of DICT]
   * images taken by reviewers
