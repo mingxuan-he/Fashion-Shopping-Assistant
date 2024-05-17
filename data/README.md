@@ -4,7 +4,7 @@ Update 05/16/24
 * [760MB] [amazon_fashion_clean_051624.parquet](https://drive.google.com/file/d/1DePC-rTUNBzQgIqq-GSLA228hNCTxEJL/view?usp=share_link)
   * Shape: (776976, 18)
 
-FEATURES
+**FEATURES**
 
 * `title` [STR]
   * title scraped from website
@@ -47,7 +47,7 @@ FEATURES
   * images taken by reviewers
   * all sizes
 
-NOTES
+**NOTES**
 * Fewer rows - some products were dropped because the only review for some products were unverified, and so the associated product was dropped
 * We can use `details` feature to check for additional info like `Date First Available`, `Department`.
   * These could be used in in a graph. 
