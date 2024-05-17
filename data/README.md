@@ -42,7 +42,8 @@ Update 05/16/24
   * How this would work is we would multiply the original `text` content of this review by the number of "helpful_vote" times
   * Now, I didn't think we needed a 1:1 ratio. Also, the most upvotes for a review in this dataset is 371, and we don't want to be copying a chunk of text 371 times
   * So I decide to transform "helpful_vote" by taking the square root of each vote
-  * I think this still works because this (weighing of the "helpful_vote" weight) process REWARDS upvotes when they're sparse. In other words, the MARGINAL VALUE of each upvote decreases over time (arguably, it's more important that someone finds a review relatable and thus upvotes it for the 1st, 2nd time, compared to when the 200th person is upvoting a post that already has 199 votes...in which case sheer visibility might play a role...such a popular review likely will be found at the top of the review section)  
+  * I think this still works because this (weighing of the "helpful_vote" weight) process REWARDS upvotes when they're sparse. In other words, the MARGINAL VALUE of each upvote decreases over time (arguably, it's more important that someone finds a review relatable and thus upvotes it for the 1st, 2nd time, compared to when the 200th person is upvoting a post that already has 199 votes...in which case sheer visibility might play a role...such a popular review likely will be found at the top of the review section)
+  * Application: probably best review text feature for embedding, in my opinion. Unless embedding models handle repeated text badly.
 * `images_review_cln` [LST of DICT]
   * images taken by reviewers
   * all sizes
