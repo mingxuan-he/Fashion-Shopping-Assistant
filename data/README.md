@@ -19,6 +19,7 @@ Update 05/16/24
 * `images` [LST of DICT]
   * all sizes
 * `store` [STR]
+  * company name
 * `details` [DICT]
   * product "about" text, scraped from website
 * `parent_asin` [STR]
