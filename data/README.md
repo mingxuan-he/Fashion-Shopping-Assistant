@@ -12,6 +12,7 @@ Update 05/16/24
   * avg rating scraped from website
 * `rating_number` [INT64] 
 * `features` [STR]
+  * product "about" section text, scraped from website
 * `description` [STR]
   * only ~59,289 products out of 776,000+ have descriptions
 * `price` [FLOAT64]
@@ -21,7 +22,8 @@ Update 05/16/24
 * `store` [STR]
   * company name
 * `details` [DICT]
-  * product "about" text, scraped from website
+  * more product details 
+  * see NOTES below for full list/more info
 * `parent_asin` [STR]
   * unique product identifier
 * `title_review_agg` [STR]
