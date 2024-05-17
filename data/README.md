@@ -47,6 +47,13 @@ FEATURES
   * images taken by reviewers
   * all sizes
 
+NOTES
+* Fewer rows - some products were dropped because the only review for some products were unverified, and so the associated product was dropped
+* We can use `details` feature to check for additional info like `Date First Available`, `Department`.
+  * These could be used in in a graph. 
+  * `Date First Available` - do reviews change over time
+  * `Department` - could serve as nodes or edges, helps determine traffic to particular departments
+* There ARE users who left reviews for multiple products. Enough to instances to conduct analysis on 
 
 ## **Individual datasets, clean**
 * [537MB] [reviews_modified_051624.parquet](https://drive.google.com/file/d/1eFBR7PrBlnVgE6gKwx4J4-dnckiEh8XK/view?usp=share_link)
