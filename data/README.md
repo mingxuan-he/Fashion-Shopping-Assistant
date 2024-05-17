@@ -51,6 +51,7 @@ Update 05/16/24
 **NOTES**
 * Fewer rows - some products were dropped because the only review for some products were unverified, and so the associated product was dropped
 * We can use `details` feature to check for additional info like `Date First Available`, `Department`.
+  * Full list of possible items in `details` feature here: [product_DETAILS_keys](https://drive.google.com/file/d/1iO2ci4Tz6jp4CL4uNtfgv-IpM2lMCt0D/view?usp=share_link) [PICKLE]
   * These could be used in in a graph. 
   * `Date First Available` - do reviews change over time
   * `Department` - could serve as nodes or edges, helps determine traffic to particular departments
@@ -60,6 +61,9 @@ Update 05/16/24
 * [537MB] [reviews_modified_051624.parquet](https://drive.google.com/file/d/1eFBR7PrBlnVgE6gKwx4J4-dnckiEh8XK/view?usp=share_link)
   * Each row contains one USER and their review. Maybe can be used for graph analysis because of this data format.
 * [278MB] [meta_modified_051624.parquet](https://drive.google.com/file/d/131iDXr_TI25X53dG97DGlmz5mvm_eG8k/view?usp=share_link)
+
+## Other data
+* Full list of possible items in `details` feature here: [product_DETAILS_keys](https://drive.google.com/file/d/1iO2ci4Tz6jp4CL4uNtfgv-IpM2lMCt0D/view?usp=share_link) [PICKLE]
 
 ## **Raw data**
 * Reviews: [Amazon_Fashion.jsonl](https://drive.google.com/file/d/1A_HSH_-vocuNcY4D0AhgTcl-VgspwjCj/view?usp=share_link)
