@@ -1,4 +1,4 @@
-Update 05/16/24
+Update 05/20/24
 
 ## **Full merged & clean data files (tabular/dataframes) linked below:**
 * [760MB] [amazon_fashion_clean_051624.parquet](https://drive.google.com/file/d/1DePC-rTUNBzQgIqq-GSLA228hNCTxEJL/view?usp=share_link)
@@ -69,6 +69,8 @@ Update 05/16/24
 
 ## Other data
 * Full list of possible items in `details` feature here: [product_DETAILS_keys](https://drive.google.com/file/d/1iO2ci4Tz6jp4CL4uNtfgv-IpM2lMCt0D/view?usp=share_link) [PICKLE]
+* Json with link to every products' large image: [product_image_links.json](https://drive.google.com/file/d/1daLqAtINSUweE3qY8OwFlbxap4ceF5Ar/view?usp=sharing)
+  * A dictionary of dictionaries, with `parent_asin` as outer key, inside the nested dicts are `image_link` and `title`
 
 ## **Raw data**
 * Reviews: [Amazon_Fashion.jsonl](https://drive.google.com/file/d/1A_HSH_-vocuNcY4D0AhgTcl-VgspwjCj/view?usp=share_link)
