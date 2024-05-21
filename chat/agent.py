@@ -184,11 +184,12 @@ class ShoppingAssistant():
     
 
     def chat(self, input_text: str=None, input_image: str=None, image_is_file: bool=False):
-        if image_is_file and input_image:
-            with open(input_image, "rb") as f:
-                image = base64.b64encode(f.read()).decode("utf-8")
-        else: # if decoded image is passed
-            image = input_image
+        if input_image:
+            if image_is_file:
+                with open(input_image, "rb") as f:
+                    image = base64.b64encode(f.read()).decode("utf-8")
+            else: # if base64 image is passed
+                image = input_image
             
         # add text and image to human message content
         input_content = []
@@ -200,8 +201,7 @@ class ShoppingAssistant():
         if input_image:
             input_content.append({
                 "type":"image_url", 
-                "image_url": {"url": f"data:image/jpeg;base64,{image}"},
-                "detail": "high"
+                "image_url": {"url": f"data:image/jpeg;base64,{image}"}
             })
         
         # invoke agent
