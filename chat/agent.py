@@ -123,6 +123,8 @@ class ShoppingAssistant():
         user_info = """
         Name: James
         Age: Middle-aged
+        Gender: Male
+        Height: 6'1
         Location: Chicago, IL
         Occupation: Sociology Professor
         """
@@ -200,8 +202,10 @@ class ShoppingAssistant():
             })
         if input_image:
             input_content.append({
-                "type":"image_url", 
-                "image_url": {"url": f"data:image/jpeg;base64,{image}"}
+                "type": "image_url", 
+                "image_url": {
+                    "url": f"data:image/jpeg;base64,{image}"
+                    }
             })
         
         # invoke agent
@@ -223,6 +227,10 @@ class ShoppingAssistant():
         
 if __name__ == "__main__":
     assistant = ShoppingAssistant()
-    response = assistant.chat(input_text="Describe this item and find me a top that goes well with it.", input_image="data/test_image.jpg", image_is_file=True)
+    image_path = "data/test_image.jpg"
+    with open(image_path, "rb") as f:
+        encoded = base64.b64encode(f.read()).decode("utf-8")
+    response = assistant.chat(input_text="Describe this item and find me a top that goes well with it.", input_image=encoded, image_is_file=False)
+    # response = assistant.chat(input_text="Describe this item and find me a top that goes well with it.", input_image=image_path, image_is_file=True)
     print(response)
     print(assistant.get_history())

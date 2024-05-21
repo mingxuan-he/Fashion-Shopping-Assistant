@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+torch
+sentence-transformers
+pinecone
+dotenv
