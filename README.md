@@ -3,7 +3,7 @@ $${\color{CadetBlue}Mingxuan\space He,\space \color{Maroon}Erika\space Zhang,\sp
 <p align="center"><strong>University of Chicago</strong></p> 
 <p align="center"><strong>MACS 37000</strong></p> 
 
-Presentation link: [HERE](https://docs.google.com/presentation/d/1td8g7ui9h0IvLFUavARb2on_H2XIW_L36_Xed379hQQ/edit?usp=share_link)
+Presentation link: [HERE](https://docs.google.com/presentation/d/1ErR92ePgXi02C6yQtHcEhYofE5fTRdAZozAHcLz4fEs/edit?usp=sharing)
 
 
 
