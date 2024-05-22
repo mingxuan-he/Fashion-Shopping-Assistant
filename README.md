@@ -3,6 +3,10 @@ $${\color{CadetBlue}Mingxuan\space He,\space \color{Maroon}Erika\space Zhang,\sp
 <p align="center"><strong>University of Chicago</strong></p> 
 <p align="center"><strong>MACS 37000</strong></p> 
 
+Presentation link: [HERE](https://docs.google.com/presentation/d/1td8g7ui9h0IvLFUavARb2on_H2XIW_L36_Xed379hQQ/edit?usp=share_link)
+
+
+
 ## Latest Team Update: Sunday 05/12/24
 Meeting Notes [here](https://docs.google.com/document/d/1MtpyfgS40KDQkx7kjWbbZebLXWoS5qvj3-8H67ZHBMM/edit?usp=share_link)
 
