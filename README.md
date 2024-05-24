@@ -3,6 +3,7 @@ $${\color{CadetBlue}Mingxuan\space He,\space \color{Maroon}Erika\space Zhang,\sp
 <p align="center"><strong>University of Chicago</strong></p> 
 <p align="center"><strong>MACS 37000</strong></p> 
 
+Write-up draft Medium: [HERE](https://medium.com/@mingxuanh/developing-a-multi-modal-ai-assistant-for-amazon-fashion-821cd9ac1ef0)
 Write-up draft google-doc: [HERE](https://docs.google.com/document/d/1GiZguNcLvcqN4TnpzDZz_ggMFFUcs6Ji1I2ZjaXZYuM/edit)
 
 Presentation link: [HERE](https://docs.google.com/presentation/d/1ErR92ePgXi02C6yQtHcEhYofE5fTRdAZozAHcLz4fEs/edit?usp=sharing)
